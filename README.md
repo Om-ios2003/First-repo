@@ -1,2 +1,2 @@
-# First-repo
-FIRST TIME GITHUB WITH UNDERSTANDING
+# projects
+
